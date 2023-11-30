@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(34, 57, 69);
+    color: white; /* Set text color to white */
+    margin: 0;
+    padding: 0;
+    text-decoration: rgb(205, 212, 212);
+}
+
+.App {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.success {
+    padding: 1rem;
+    color: green;
+}
+
+.failure {
+    padding: 1rem;
+    color: red;
+}
